@@ -3,6 +3,8 @@ description: >-
   A type-safe Dart client for Geoapify geocoding, routing, places, and
   geospatial APIs. Works with Flutter and standalone Dart applications.
 version: 1.0.0
+repository: https://github.com/Zaigham08/geoapify_dart
+issue_tracker: https://github.com/Zaigham08/geoapify_dart/issues
 
 topics:
   - geoapify
