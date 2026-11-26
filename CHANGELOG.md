@@ -1,3 +1,7 @@
+## 1.0.1
+
+- Added `example/geoapify_dart_example.dart` for `pub.dev` example tab detection.
+
 ## 1.0.0
 
 - Initial release of `geoapify_dart`.
