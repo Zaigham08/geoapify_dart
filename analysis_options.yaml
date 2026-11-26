@@ -1,0 +1,18 @@
+include: package:lints/recommended.yaml
+
+linter:
+  rules:
+    - always_declare_return_types
+    - avoid_dynamic_calls
+    - avoid_returning_null_for_void
+    - cancel_subscriptions
+    - close_sinks
+    - directives_ordering
+    - prefer_const_constructors
+    - prefer_final_locals
+    - prefer_single_quotes
+    - public_member_api_docs
+    - sort_pub_dependencies
+    - unawaited_futures
+    - unnecessary_lambdas
+    - use_super_parameters
